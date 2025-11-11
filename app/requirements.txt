@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain_tavily
+motor
+fastapi
+uvicorn
+psycopg2-binary
+mysql-connector-python
+langgraph.checkpoint.mongodb
+dotenv
